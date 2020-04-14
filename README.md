@@ -82,8 +82,32 @@ A quick look of the wordcloud visualization:
 Wordcloud for Accounting resumes\
 ![picture](images/wordcloud_accounting.png)
 
+Wordcloud for Accounting job ads\
+![picture](images/accounting_job.png)
+
 Wordcloud for Information Technology resumes\
 ![picture](images/wordcloud_it.png)
+
+Wordcloud for Information Technology job ads\
+![picture](images/it_job.png)
+
+We also used TFidfVectorizer to check out on the weight of the words:
+
+A comparison shows that the top words that appear with the most weight are quite similar in both resumes and job ads.\
+E.g. Accounting, financial, account, management, payroll, payable, etc
+E.g. Network, project, management, development, software, data, etc
+
+Weight of words (Accounting resumes)\
+![picture](images/tfidf_acct_resumes.png)
+
+Weight of words (Accounting job ads)\
+![picture](images/tfidf_acct_job.png)
+
+Weight of words (Information Technology resumes)\
+![picture](images/tfidf_it_resumes.png)
+
+Weight of words (Information Technology job ads)\
+![picture](images/tfidf_it_job.png)
 
 
 #### Data Modeling and Evaluation
