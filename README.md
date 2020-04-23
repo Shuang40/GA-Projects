@@ -36,6 +36,7 @@ With that, we will be able to filter based on resumes returning top similarity s
 
 - [Accounting](./datasets/Accounting.csv)
 - [IT](./datasets/IT.csv)
+- [job_posting](./datasets/job_posting.csv)
 - [job_ads](./datasets/job_ads.csv)
 - [resumes](./datasets/resumes.csv)
 - [res_jobs](./datasets/res_jobs.csv)
